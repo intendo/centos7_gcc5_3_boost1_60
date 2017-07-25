@@ -1,4 +1,4 @@
-FROM intendo/centos7_gcc
+FROM intendo/centos7_gcc5_3
 
 # Set one or more individual labels
 LABEL dockeruser="intendo"
