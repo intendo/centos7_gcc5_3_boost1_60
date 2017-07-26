@@ -6,7 +6,7 @@ LABEL maintainer="Darren.Curtis@pnnl.gov"
 LABEL description="CentOS image for GNU GCC/G++ sofware development"
 LABEL vendor="Pacific Northwest National Laboratory"
 LABEL package_name="centos7_gcc_boost"
-LABEL version="1.0.0"
+LABEL version="1.1.0"
 LABEL release-date="2017-07-21"
 LABEL version.is-production="yes"
 
